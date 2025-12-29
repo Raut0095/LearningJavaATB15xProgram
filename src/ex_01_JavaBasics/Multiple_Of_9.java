@@ -2,6 +2,7 @@ package ex_01_JavaBasics;
 
 public class Multiple_Of_9 {
     public static void main(String[] args) {
+        
         int a =9;
         System.out.printf("%d*1=%d%n", a, a *1);
         System.out.printf("%d*2=%d%n", a, a *2);
