@@ -10,4 +10,5 @@ public class Lab_08Decrement {
 
         System.out.println(dec_value);
     }
+
 }
