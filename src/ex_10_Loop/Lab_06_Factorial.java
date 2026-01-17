@@ -17,6 +17,7 @@ public class Lab_06_Factorial {
                 fact = fact * i;
             }
             System.out.println("factorial is =" + fact);
+
         }
         else
         {
