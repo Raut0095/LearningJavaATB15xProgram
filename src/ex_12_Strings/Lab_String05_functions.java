@@ -10,6 +10,15 @@ public class Lab_String05_functions {
         System.out.println(s2);
         System.out.println(s1);
 
+        //endswith
+        System.out.println(s1.endsWith("a"));
+        //trim - answithout space
+        String name = "   Taf   ";
+        System.out.println(name.trim());
+        //compare to
+        System.out.println(name.compareTo("sonal"));
+
+
 
         char[] Array = "java".toCharArray();
         System.out.println(Array);
@@ -23,5 +32,6 @@ public class Lab_String05_functions {
         System.out.println("=".repeat(3));
         System.out.println("print msg#");
         System.out.println("=".repeat(3));
+
     }
 }
