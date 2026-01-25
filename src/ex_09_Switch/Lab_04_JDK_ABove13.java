@@ -8,6 +8,7 @@ public class Lab_04_JDK_ABove13 {
         int itemCode = 002;
 
         switch(itemCode){
+                   //arrow expression;without break
             case 001 -> System.out.println("printing 001");
             case 002 -> System.out.println("Matching  002");
 
