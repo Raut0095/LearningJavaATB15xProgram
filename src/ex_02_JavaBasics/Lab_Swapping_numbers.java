@@ -13,9 +13,7 @@ public class Lab_Swapping_numbers {
 //        b=t;
 //
         //logic2 withoutusing third variable
-//        a=a+b;
-//        b=a-b;
-//        a=a-b;
+//    
 
         //logic3 using *and /
         a=a*b;
